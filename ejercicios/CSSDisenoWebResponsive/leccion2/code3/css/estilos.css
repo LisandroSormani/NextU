@@ -1,6 +1,10 @@
+body p{
+	color:green;
+}
+
 body{
 	background-color: black;
-	color: white;
+	color: white !important;
 	font-family: Verdana;
 }
 
@@ -16,6 +20,11 @@ div{
 	margin-top: 10px;
 	margin-left: 20px;
 }
-body{ 
-	color: red  !important; 
+
+body{
+	color:red;
+}
+
+p{
+	color:blue;
 }
